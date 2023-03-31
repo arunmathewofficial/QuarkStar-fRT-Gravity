@@ -1,4 +1,4 @@
-# quark_star_in_f_RT_gravity
+# Quark Star in f(RT) Gravity
 
 Source code for Quark star in f(R,T) = R + alpha R^2 + omega RT gravity. 						 
 														
