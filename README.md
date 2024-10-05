@@ -17,10 +17,12 @@ The results of the source code are published in: https://link.springer.com/artic
 ## Citation
 
 If you use this code, please cite it as follows:
+
 Mathew, A., Shafeeque, M. & Nandy, M.K. Stellar structure of quark stars in a modified Starobinsky gravity. Eur. Phys. J. C 80, 615 (2020). https://doi.org/10.1140/epjc/s10052-020-8130-4
 
 ## Author
 Arun Mathew
+
 Institute: New Numerical Lab, Dept. of Physics, IIT Guwahati.
 Date: 2019
 
