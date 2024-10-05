@@ -1,5 +1,9 @@
 # Quark Star in f(RT) Gravity
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+## Overview
+
 This is the source code for simulating a Quark star in f(R,T) = R + alpha R^2 + omega RT gravity, with an equation of state given by the bag model: p = k(epsilon - 4B).
 
 The source code utilizes numerical methods to solve the Starobinsky model and f(R,T) = R + alpha R^2 + omega RT gravity. The code mainly performs two tasks:
@@ -10,6 +14,13 @@ The source code utilizes numerical methods to solve the Starobinsky model and f(
 
 The results of the source code are published in: https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-020-8130-4
 
-Author: Arun Mathew
+## Citation
+
+If you use this code, please cite it as follows:
+Mathew, A., Shafeeque, M. & Nandy, M.K. Stellar structure of quark stars in a modified Starobinsky gravity. Eur. Phys. J. C 80, 615 (2020). https://doi.org/10.1140/epjc/s10052-020-8130-4
+
+## Author
+Arun Mathew
 Institute: New Numerical Lab, Dept. of Physics, IIT Guwahati.
 Date: 2019
+
